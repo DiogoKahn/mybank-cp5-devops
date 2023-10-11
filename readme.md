@@ -12,10 +12,7 @@ O projeto consiste em uma API que realiza o CRUD de dados de um usuário e de ba
 O deploy da API foi feito na Azure utilizando o seriviço de aplicativos, usamos também o git hub actions para realizar o CI/CD da API.
 
 ## Fazendo o Deploy
-
-<a href="https://www.youtube.com/watch?v=oWF60k6VJtA">
-<h3>Vídeo Tutorial</h3>
-</a>
+[Vídeo Tutorial](https://www.youtube.com/watch?v=oWF60k6VJtA)
 
 ## Testando a API
 O arquivo `CP5 - Devops.postman_collection.json` pode ser importado no Postman, e contém as requisições necessárias para testar a API.
