@@ -3,7 +3,7 @@
 ## Integrantes:
 | Nome                        | RM      |
 |-----------------------------|---------|
-| Diogo Giarranti Kahn        | RM92928 |
+| Diogo Giarranti Kahn        | 92928 |
 | Mateus da Costa Leme        | 93480   |
 | Pedro Henrique Chueiri      | 93939   |
 
